@@ -1,0 +1,2 @@
+API_KEY="YOUR_TESTNET_API_KEY_HERE"
+API_SECRET="YOUR_TESTNET_API_SECRET_HERE"2025-11-19 16:48:12,840 - TradingBot - ERROR - API keys not loaded. Check your .env file.
